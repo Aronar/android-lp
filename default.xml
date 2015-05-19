@@ -25,7 +25,7 @@
            sync-j="4" />
 
 
-  <project path="android" name="CarbonROM/android" remote="carbon" revision="lp" />
+  <project path="android" name="Aronar/android" remote="carbon" revision="lp" />
   <project path="build" name="CarbonROM/android_build" groups="pdk,tradefed" remote="carbon" revision="lp" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
